@@ -6,6 +6,6 @@ This is my repository of challenges from [Frontend Mentor](https://frontendmento
 
 | Name                                                                              | Short Description                                          | Difficulty |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
-| [Price-Grid](./price-grid/README.md)                                              | A Single Price Grid Component                              |    Easy    |
+| [Price-Grid](./price-grid/)                                              | A Single Price Grid Component                              |    Easy    |
 |[Huddle-landing-page](./huddle-landing-page)                                       | A Simple Landing Page | Easy |
   
