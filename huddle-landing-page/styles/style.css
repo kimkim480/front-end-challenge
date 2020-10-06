@@ -33,7 +33,6 @@ header {
   width: 100%;
   height: auto;
 }
-
 .container > .community {
   grid-column: 2/2;
 }
