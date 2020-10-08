@@ -8,4 +8,4 @@ This is my repository of challenges from [Frontend Mentor](https://frontendmento
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [Price-Grid](./price-grid/)                                                       | A Single Price Grid Component                              |    Easy    |
 |[Huddle-landing-page](./huddle-landing-page)                                       | A Simple Landing Page                                      |    Easy    |
-|[Base-Apparel-Coming-Soon](./base-apparel-coming-soon)                             | A simple coming soon page |                                |    EASY    |
+|[Base-Apparel-Coming-Soon](./base-apparel-coming-soon)                             | A simple coming soon page                                 |    EASY    |
